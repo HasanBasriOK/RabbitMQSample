@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZsbX7dKSRoehc9ROpELUNS3f3dO2xB72GotpwtzpgIrnUMsiiAR5LroaBypA1SvR/YkbyFImY6tzc4akc3Q+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enderuser\\Source\\repos\\BankTransactionApi\\BankTransactionApi\\BankTransactionApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enderuser\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\enderuser\\.nuget\\packages\\npgsql\\4.1.4\\npgsql.4.1.4.nupkg.sha512",
+    "C:\\Users\\enderuser\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\enderuser\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\enderuser\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\enderuser\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

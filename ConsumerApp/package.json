@@ -1,0 +1,14 @@
+{
+  "name": "consumer-app",
+  "version": "0.0.0",
+  "description": "ConsumerApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "nodemailer": "^6.4.11",
+    "sendmail": "^1.6.1"
+  }
+}
